@@ -100,6 +100,3 @@ This project provides practical experience with:
 
 Created as a Python programming project.
 
-## 📄 License
-
-This project is available for educational and personal learning purposes.
